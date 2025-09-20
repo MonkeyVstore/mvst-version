@@ -3,7 +3,7 @@
 ### <b>#response</b>
 ```json
 {
-    "version": "1.x",
+    "version": "6.x",
     "required_update": true,
 }
 ```
